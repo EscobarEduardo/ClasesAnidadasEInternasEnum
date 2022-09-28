@@ -1,4 +1,4 @@
-//@Autor:Emerson Valenzuela
+
 package com.example.clasesanidadaseinternasenum
 
 import androidx.appcompat.app.AppCompatActivity

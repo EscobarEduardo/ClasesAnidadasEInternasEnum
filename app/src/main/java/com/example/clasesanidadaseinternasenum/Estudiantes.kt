@@ -1,4 +1,4 @@
-//@Autor:Emerson Valenzuela
+
 package com.example.clasesanidadaseinternasenum
 
 
